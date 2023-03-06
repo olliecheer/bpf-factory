@@ -1,4 +1,11 @@
+/*
+!/bpftool
+!/libbpf
+!/vmlinux
+!/workspace
 /workspace/*
 !/workspace/Makefile
 !/workspace/*.c
 !/workspace/*.h
+!/workspace/new.sh
+!/workspace/delete.sh
