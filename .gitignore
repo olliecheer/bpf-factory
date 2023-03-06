@@ -1,0 +1,4 @@
+/workspace/*
+!/workspace/Makefile
+!/workspace/*.c
+!/workspace/*.h
